@@ -8,7 +8,7 @@ yarn install
 in each directory of them
 
 2- Inside server directory, wrtite command:
-yarn dev
+yarn dev                      ---- command
 
 3- Inside peersjs directory, write command:
 yarn dev
